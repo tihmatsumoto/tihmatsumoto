@@ -5,7 +5,7 @@
 </a>
 
 <p align="left">
-I am a Senior QA Engineer - currently working at @FidelLimited - with more than 7 years of experience developing test automation solutions and test strategies for different projects. Studying software development.
+I am a Senior QA Engineer with more than 7 years of experience developing test automation solutions and test strategies for different projects. Studying software development.
 </p>
 
 <details>
