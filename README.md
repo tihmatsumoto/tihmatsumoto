@@ -5,12 +5,8 @@
 </a>
 
 <p align="left">
-I am a Senior QA Engineer with more than 7 years of experience developing test automation solutions and test strategies for different projects. Studying software development.
+I am a Senior QA Engineer with more than 7 years of experience developing test automation solutions and test strategies for different projects.
 </p>
-
-<details>
-  <summary><b>:rocket: 2023 goal</b></summary>
-</details>
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
