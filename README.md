@@ -16,7 +16,4 @@ I am a Senior QA Engineer with more than 7 years of experience developing test a
   <a href="https://www.linkedin.com/in/tiemimatsumoto/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/tihmatsumoto">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
 </p>
