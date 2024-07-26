@@ -5,7 +5,7 @@
 </a>
 
 <p align="left">
-Senior QA Automation Engineer with +8 years of experience, developing automation solutions and test strategy for diferent projects. <b>CurrentlyI, transitioning for iOS development.</b>
+Senior QA Automation Engineer with +8 years of experience, developing automation solutions and test strategy for diferent projects. <b>Currently, transitioning for iOS development.</b>
 </p>
 
 &nbsp;&nbsp;
