@@ -1,11 +1,11 @@
-### Hi, I'm Marcia Matsumoto! <img src="https://media.giphy.com/media/ud6Q18PGmcyWXwiz9O/giphy.gif" width="50"></img>
+### <img src="https://media.giphy.com/media/ud6Q18PGmcyWXwiz9O/giphy.gif" width="50"></img> Hi, I'm Marcia Matsumoto!
 ------
 <a href="https://github.com/tihmatsumoto/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihmatsumoto&layout=compact&hide=java,c%23,html" />
 </a>
 
 <p align="left">
-Senior QA Automation Engineer with +8 years of experience, developing automation solutions and test strategy for diferent projects. <b>Currently, transitioning for iOS development.</b>
+  <b>I am an iOS Engineer working in hospitality industry and on some personal projects. </b> Before diving into iOS, I spent over 6 years as QA Automation Engineer, creating automation solutions and test strategies for a variety of industries like agribusiness, automotive, fintech, and hospitality. 
 </p>
 
 &nbsp;&nbsp;
