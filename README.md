@@ -1,11 +1,18 @@
 ### <img src="https://media.giphy.com/media/ud6Q18PGmcyWXwiz9O/giphy.gif" width="50"></img> Hi, I'm [Márcia Matsumoto](https://www.linkedin.com/in/tiemimatsumoto/)!
 
+&nbsp;
+
 <img width="40%" align="right" alt="Github" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/girl-working-computer.gif" />
 
 - iOS Engineer working in hospitality industry;
 - Before diving into iOS, I was QA Automation Engineer for over 6 years
 - Focus on building robust mobile applications with focus in quality
 
+&nbsp;
+
+My Github Portfolio
+
+&nbsp;
 ___
 <br/>
 <p align="center">
