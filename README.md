@@ -1,5 +1,5 @@
 
-### Hi, I'm [Márcia Matsumoto](https://www.linkedin.com/in/tiemimatsumoto/)!
+## Hi, I'm [Márcia Matsumoto](https://www.linkedin.com/in/tiemimatsumoto/)!
 
 &nbsp;
 
@@ -14,7 +14,7 @@
 My Github Portfolio
 
 &nbsp;
-___
+---
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/tihmatsumoto/">
@@ -25,3 +25,4 @@ ___
   </a> &nbsp;
 </p>
 <br/>
+---
