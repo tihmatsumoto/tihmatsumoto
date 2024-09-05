@@ -1,4 +1,5 @@
-### <img src="https://media.giphy.com/media/ud6Q18PGmcyWXwiz9O/giphy.gif" width="50"></img> Hi, I'm [Márcia Matsumoto](https://www.linkedin.com/in/tiemimatsumoto/)!
+
+### Hi, I'm [Márcia Matsumoto](https://www.linkedin.com/in/tiemimatsumoto/)!
 
 &nbsp;
 
@@ -17,10 +18,10 @@ ___
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/tihmatsumoto/">
-    <img alt="Márcia Matsumoto | Linkedin" width="24px" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/icons8-linkedin.svg" />
+    <img alt="Márcia Matsumoto | Linkedin" width="50px" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/icons8-linkedin.svg" />
   </a> &nbsp; &nbsp;
   <a href="mailto:tiemi.matsumoto@gmail.com">
-    <img alt="Márcia Matsumoto | Gmail" width="26px" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/icons8-gmail.svg" />
+    <img alt="Márcia Matsumoto | Gmail" width="50px" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/icons8-gmail.svg" />
   </a> &nbsp;
 </p>
 <br/>
