@@ -5,9 +5,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/girl-working-computer.gif" />
 
-- iOS Engineer working in hospitality industry;
-- Before diving into iOS, I was QA Automation Engineer for over 6 years
-- Focus on building robust mobile applications with focus in quality
+- QA Lead with +8 years of experience with automation in a number of industries
 
 &nbsp;
 
