@@ -5,11 +5,17 @@
 
 <img width="40%" align="right" alt="Github" src="https://github.com/tihmatsumoto/tihmatsumoto/blob/main/assets/girl-working-computer.gif" />
 
-- QA Lead with +8 years of experience with automation in a number of industries
+- I'm a QA Lead with +8 years of significant experience in software automation in a number of industries from agribusiness to automobilistic, fintech and hospitality.
+- Significant experience in UI browser testing tools and frameworks, such as <b>Playwright, Cypress, Selenium</b>.
+- Proficiency with RESTful test automation using Postman, Jest, SuperTest.
+- Strong programming skills in Javascript/Typescript, Java.
+- Hands on experience with native tests for iOS and Android.
+- Experience in continuous integration with some QAOps using GitHub Actions, AWS and Docker.
+- Hands-on experience in creating test automation frameworks from the scratch
 
-&nbsp;
+I do some Swift/iOS coding as a hobby here is my current portfolio:
 
-My Github Portfolio
+MyPortfolio
 
 &nbsp;
 
